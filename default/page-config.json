@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-drum-rack.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Baterías con Drum Rack | Lynx Pardelle",
+    "description": "Diseña un kit en Drum Rack que combine muestras e instrumentos. Decide qué procesamiento recibe cada pad y asigna controles que puedas mover mientras tocas.",
+    "canonical": "https://masterclass-drum-rack.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-midi.webp"
+    }
+  }
+}
