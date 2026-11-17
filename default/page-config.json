@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Baterías con Drum Rack | Lynx Pardelle",
-    "description": "Diseña un kit en Drum Rack que combine muestras e instrumentos. Decide qué procesamiento recibe cada pad y asigna controles que puedas mover mientras tocas.",
+    "title": "Masterclass de Drum Rack, pads y macros | Lynx Pardelle",
+    "description": "Crea kits de batería con muestras e instrumentos en Drum Rack. Trabaja ruteo, efectos por cadena y macros para controlar un patrón en vivo.",
     "canonical": "https://masterclass-drum-rack.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-drum-rack-r2-b2edd0fcb21180e6.webp",
+      "title": "Masterclass de Drum Rack, pads y macros | Lynx Pardelle",
+      "description": "Crea kits de batería con muestras e instrumentos en Drum Rack. Trabaja ruteo, efectos por cadena y macros para controlar un patrón en vivo.",
+      "url": "https://masterclass-drum-rack.music.lynxpardelle.com/",
+      "imageAlt": "Controlador de pads y piezas de percusión listas para muestrear."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de Drum Rack, pads y macros | Lynx Pardelle",
+      "description": "Crea kits de batería con muestras e instrumentos en Drum Rack. Trabaja ruteo, efectos por cadena y macros para controlar un patrón en vivo.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-drum-rack-r2-b2edd0fcb21180e6.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-drum-rack.music.lynxpardelle.com/#webpage",
+        "name": "Baterías con Drum Rack",
+        "description": "Crea kits de batería con muestras e instrumentos en Drum Rack. Trabaja ruteo, efectos por cadena y macros para controlar un patrón en vivo.",
+        "url": "https://masterclass-drum-rack.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-drum-rack.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-drum-rack.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Baterías con Drum Rack",
+        "description": "Crea kits de batería con muestras e instrumentos en Drum Rack. Trabaja ruteo, efectos por cadena y macros para controlar un patrón en vivo.",
+        "url": "https://masterclass-drum-rack.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-drum-rack-r2-b2edd0fcb21180e6.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-drum-rack.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
